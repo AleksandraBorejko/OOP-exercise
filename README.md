@@ -1,0 +1,1 @@
+Simple console application created to help a fictitious company called My Burger to manage their process of selling hamburgers
